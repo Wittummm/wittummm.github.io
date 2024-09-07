@@ -1,7 +1,4 @@
 ---
 layout: default
 ---
-
-main page here
-
-[hi](./syntaxed-guid.html)
+[Syntax GUID Generator](./content/syntaxed-guid.html)
