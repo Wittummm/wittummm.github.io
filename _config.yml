@@ -2,6 +2,6 @@ minima:
   nav_pages:
     - index.md
 
-remote_theme: "jekyll/minima@1e8a445"
+remote_theme: "thundergolfer/junior-theme"
 plugins:
 - jekyll-remote-theme
